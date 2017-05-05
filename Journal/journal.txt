@@ -5,4 +5,7 @@ Goal for today: Create the general layout of the website, choose any themes and 
 
 Progress: Started the outline of the website and the very basic template of a html file.
 
-Plans: Refresh my knowledge on Javascript, CSS, and PHP and complete the outline.
+Plans: Refresh my knowledge on Javascript, CSS, SQL, and PHP and complete the outline.
+
+5/5/17
+Goals for today: master the language of SQL
