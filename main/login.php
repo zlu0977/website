@@ -38,7 +38,7 @@
 		$psword = password_hash($pword, PASSWORD_DEFAULT);
 		$data = $result->fetch();
 		
-		if(!password_verify($pword.$uname, $data['password1']))
+		if(!password_verify($pword, $data['password1']))
 			return "You have entered an incorrect username or password";
 		
 		if(isset($_POST['remember']))
@@ -65,7 +65,7 @@
 		if(strlen($pword) < 8)
 			return "Password is too short.";
 		
-		$hash = password_hash($pword.$uname, PASSWORD_DEFAULT);
+		$hash = password_hash($pword, PASSWORD_DEFAULT);
 		$cmd = "INSERT INTO `users1` VALUES ('$idNum', '$uname', '$hash', '$date', NOW())";
 		$result = $conn->prepare($cmd);
 		$result->execute();
@@ -84,7 +84,9 @@
 		<script>
 			function initialize()
 			{
-				
+				background = document.getElementById("background");
+				info = document.getElementById("info");
+				loginForm = document.getElementById("loginForm");
 			}
 		</script>
 	</head>
@@ -93,8 +95,9 @@
 		<div id = "header"></div>
 		
 		<div id = "info"></div>
+		
 		<div id = "login">
-			<form method = "post" action = "login.php">
+			<form id = "loginForm" method = "post" action = "login.php">
 				<input id = "username" name ="uname" placeholder = "Username" required/>
 				<input id = "password" name = "pword" placeholder = "Password" required/>
 				<button id = "loginButton" type = "submit">Login</button>
