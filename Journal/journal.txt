@@ -8,4 +8,8 @@ Progress: Started the outline of the website and the very basic template of a ht
 Plans: Refresh my knowledge on Javascript, CSS, SQL, and PHP and complete the outline.
 
 5/5/17
-Goals for today: master the language of SQL
+Goals for today: master the language of SQL.
+
+Progress: studied SQL, made folders for future files, added on to index page and login page.
+
+Plans: Create a database for the website.
