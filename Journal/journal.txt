@@ -13,3 +13,6 @@ Goals for today: master the language of SQL.
 Progress: studied SQL, made folders for future files, added on to index page and login page.
 
 Plans: Create a database for the website.
+
+5/8/17
+Goals for today: finish functionality of the login page.
