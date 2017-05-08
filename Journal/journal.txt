@@ -16,3 +16,7 @@ Plans: Create a database for the website.
 
 5/8/17
 Goals for today: finish functionality of the login page.
+
+Pogress: created a database, fixed css of login page.
+
+Plans: finish the login page.
