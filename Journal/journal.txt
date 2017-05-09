@@ -20,3 +20,6 @@ Goals for today: finish functionality of the login page.
 Pogress: created a database, fixed css of login page.
 
 Plans: finish the login page.
+
+5/9/17
+Goals for today:finish login page and connect to database.
