@@ -23,3 +23,7 @@ Plans: finish the login page.
 
 5/9/17
 Goals for today:finish login page and connect to database.
+
+Progress: fixed login page problems and css. I forgot my database at home and had to do with my memory. Started index page.
+
+Plans: bring database and create the first user entries.
