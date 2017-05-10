@@ -22,8 +22,15 @@ Pogress: created a database, fixed css of login page.
 Plans: finish the login page.
 
 5/9/17
-Goals for today:finish login page and connect to database.
+Goals for today: finish login page and connect to database.
 
 Progress: fixed login page problems and css. I forgot my database at home and had to do with my memory. Started index page.
 
 Plans: bring database and create the first user entries.
+
+5/10/17
+Goals for today: work on the sql to get the websites of the user.
+
+Progress: added sql statements to get websites and working on putting the information into an object.
+
+Plans: finish creating the objects.
