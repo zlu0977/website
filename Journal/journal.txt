@@ -34,3 +34,7 @@ Goals for today: work on the sql to get the websites of the user.
 Progress: added sql statements to get websites and working on putting the information into an object.
 
 Plans: finish creating the objects.
+
+Progress: created my first user in the database and added entires to the other tables so I will be able to see if my sql is getting the           information from the database.
+
+Plans: finish the sql to get the websites.
