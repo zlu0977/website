@@ -35,6 +35,16 @@ Progress: added sql statements to get websites and working on putting the inform
 
 Plans: finish creating the objects.
 
+5/11/17
+Goals for today: sql
+
 Progress: created my first user in the database and added entires to the other tables so I will be able to see if my sql is getting the           information from the database.
 
 Plans: finish the sql to get the websites.
+
+5/12/17
+Goals for today: finish the sql to get the websites.
+
+Progress: finally got the website from the database and have passed it to javascript so it can be displayed on the user's screen.
+
+Plans: create the header tabs and fix css of index page.
