@@ -48,3 +48,6 @@ Goals for today: finish the sql to get the websites.
 Progress: finally got the website from the database and have passed it to javascript so it can be displayed on the user's screen.
 
 Plans: create the header tabs and fix css of index page.
+
+5/15/17
+Goals for today" create the header tabs based on the websites obtained from the database
