@@ -50,4 +50,8 @@ Progress: finally got the website from the database and have passed it to javasc
 Plans: create the header tabs and fix css of index page.
 
 5/15/17
-Goals for today" create the header tabs based on the websites obtained from the database
+Goals for today: create the header tabs based on the websites obtained from the database.
+
+Progress: created the header tabs and displayed them on the screen.
+
+Plans: when users hover over the header tab, the websites for that header will appear in the body of the page.
