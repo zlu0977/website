@@ -55,3 +55,10 @@ Goals for today: create the header tabs based on the websites obtained from the 
 Progress: created the header tabs and displayed them on the screen.
 
 Plans: when users hover over the header tab, the websites for that header will appear in the body of the page.
+
+5/16/17
+Goals for today: put the websites on screen when the user hover overs the header tab.
+
+Progress: ran into problems with the database for future plans so I spent the entire class recreating the database.
+
+Plans: finish database and continue with the main page.
