@@ -62,3 +62,6 @@ Goals for today: put the websites on screen when the user hover overs the header
 Progress: ran into problems with the database for future plans so I spent the entire class recreating the database.
 
 Plans: finish database and continue with the main page.
+
+5/17/17
+Goals for today: forgot my usb today so I am going to study on Chrome extensions
