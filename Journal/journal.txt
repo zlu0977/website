@@ -64,4 +64,8 @@ Progress: ran into problems with the database for future plans so I spent the en
 Plans: finish database and continue with the main page.
 
 5/17/17
-Goals for today: forgot my usb today so I am going to study on Chrome extensions
+Goals for today: forgot my usb today so I am going to study on Chrome extensions.
+
+Progress: successfully created a contextMenu for any selected text or link on a page.
+
+Plans: learn how to get the data into my database so it will be displayed on the main website.
