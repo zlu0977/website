@@ -69,3 +69,10 @@ Goals for today: forgot my usb today so I am going to study on Chrome extensions
 Progress: successfully created a contextMenu for any selected text or link on a page.
 
 Plans: learn how to get the data into my database so it will be displayed on the main website.
+
+5/22/17
+Goals for today: continue learning about Chrome extentsions.
+
+Progress: found a great youtube tutorial about connecting the extension to a database
+
+Plans: connect the extension to the database
