@@ -76,3 +76,10 @@ Goals for today: continue learning about Chrome extentsions.
 Progress: found a great youtube tutorial about connecting the extension to a database
 
 Plans: connect the extension to the database
+
+5/23/17
+Goals for today: connect the extentsion to the server and database
+
+Progress: I am having difficulty connecting to localhost and it seems like someone broke Wamp on this computer so I need to test this at home.
+
+Plans: connect the extension to the database!
