@@ -83,3 +83,10 @@ Goals for today: connect the extentsion to the server and database
 Progress: I am having difficulty connecting to localhost and it seems like someone broke Wamp on this computer so I need to test this at home.
 
 Plans: connect the extension to the database!
+
+5/25/17
+Goals for today: take a break from the extension and focus on the main website
+
+Progress: rewrote the database another time and since Wamp on this computer is broken, I will have to test my code at home. So with the rest of the time I have left, I worked on the css for the website display.
+
+Plans: test sql at home and finish up css for the website display.
