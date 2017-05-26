@@ -90,3 +90,10 @@ Goals for today: take a break from the extension and focus on the main website
 Progress: rewrote the database another time and since Wamp on this computer is broken, I will have to test my code at home. So with the rest of the time I have left, I worked on the css for the website display.
 
 Plans: test sql at home and finish up css for the website display.
+
+5/26/17
+Goals for today: Work on the front end of the website.
+
+Progress: finished the css for the website display, added a temporary background and started on the css for the header tabs.
+
+Plans: finish up the css for header and start with the toolbar.
