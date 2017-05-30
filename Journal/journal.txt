@@ -97,3 +97,10 @@ Goals for today: Work on the front end of the website.
 Progress: finished the css for the website display, added a temporary background and started on the css for the header tabs.
 
 Plans: finish up the css for header and start with the toolbar.
+
+5/30/17
+Goals for today: add a way to delete the websites
+
+Progress: decided on a drag and drop solution to delete websites. It can also be used to swap the positions of websites and headers.
+
+Plans: finish the drag and drop.
