@@ -1,0 +1,62 @@
+<?php
+  //utilities +  access
+  //conn
+  $user = $_SESSION['username1'];
+  $header = $_GET['header'];
+  $url = $_GET['url'];
+  $display = $_GET['display'];
+  $extension = $_GET['extension'];
+  
+  $uhId = getUhId();
+  $webId = getWebId();
+  
+  $cmd = "DELETE FROM `uhw`
+          WHERE `uh_id1` = '$uhId'
+          AND `web_id1` = '$webId'
+          AND `extension` = '$extension'";
+  getDBResults($cmd);
+  
+  
+  
+  
+  
+  
+  
+  function getUhId(){
+    global $user, $header;
+    $cmd = "SELECT id1
+            FROM `headers`
+            WHERE `h_name` = '$header'";
+    $headerId = getDBResults($cmd)[0]['id1'];
+    
+    $cmd = "SELECT id1
+            FROM `users`
+            WHERE `username1` = '$user'";
+    $userId = getDBResults($cmd)[0]['id1'];
+    
+    $cmd = "SELECT id1
+            FROM `uh`
+            WHERE `header_id1` = '$headerId'
+            AND `user_id1` = '$userId'";
+    return getDBResults($cmd)[0]['id1'];
+  }
+  
+  function getWebId(){
+    global $display, $url;
+    $cmd = "SELECT id1
+            FROM `webicons`
+            WHERE `i_name` = '$display'";
+    $iconId = getDBResults($cmd)[0]['id1'];
+    
+    $cmd = "SELECT id1
+            FROM `websites`
+            WHERE `url` = '$url'";
+    $websiteId = getDBResults($cmd)[0]['id1'];
+    
+    $cmd = "SELECT id1
+            FROM `web`
+            WHERE `webicon_id1` = '$iconId'
+            AND `website_id1` = '$websiteId'";
+    return getDBResults($cmd)[0]['id1'];
+  }
+?>
