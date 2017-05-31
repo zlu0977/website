@@ -104,3 +104,10 @@ Goals for today: add a way to delete the websites
 Progress: decided on a drag and drop solution to delete websites. It can also be used to swap the positions of websites and headers.
 
 Plans: finish the drag and drop.
+
+5/31/17
+Goals for today: finish the drag and drop for the website and header tabs.
+
+Progress: users can now add new header tabs and can delete them as well.
+
+Plans: add a way to edit websites or tabs if they made a mistake
