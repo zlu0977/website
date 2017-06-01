@@ -111,3 +111,10 @@ Goals for today: finish the drag and drop for the website and header tabs.
 Progress: users can now add new header tabs and can delete them as well.
 
 Plans: add a way to edit websites or tabs if they made a mistake
+
+6/1/17
+Goals for today: fix the css of the user settings when it appears on screen.
+
+Progress: fixed user settings and started on the edit function.
+
+Plans: finish the edit function.
