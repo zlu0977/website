@@ -118,3 +118,10 @@ Goals for today: fix the css of the user settings when it appears on screen.
 Progress: fixed user settings and started on the edit function.
 
 Plans: finish the edit function.
+
+6/2/17
+Goals for today: start public headers.
+
+Progress: started the search function.
+
+Plans: finish search function.
