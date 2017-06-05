@@ -125,3 +125,10 @@ Goals for today: start public headers.
 Progress: started the search function.
 
 Plans: finish search function.
+
+6/5/17
+Goals for today: work on the public header search function.
+
+Progress: fixed some issues on deleting headers with the same name. Started working on the css for public header search results.
+
+Plans: finish the css and get the search function working.
