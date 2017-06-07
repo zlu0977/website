@@ -139,3 +139,10 @@ Goals for today: get the search function working.
 Progress: retreived data from database and puts it on the screen.
 
 Plans: delete sets with 0 websites and start the other search types.
+
+6/7/17
+Goals for today: finish the search function.
+
+Progress: decided to leave the sets with 0 websites and worked on the drop down display for the websites for each set.
+
+Plans: finish search function. do not display the add button to the sets that the user have made.
